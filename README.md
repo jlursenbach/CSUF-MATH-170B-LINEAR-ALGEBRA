@@ -2,7 +2,7 @@
 
 ## [CLICK HERE TO OPEN NOTEBOOK](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
 ### [Sylabus](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/Math%20170B-02.pdf)
-### [Course Notes]()
+### [Course Notes](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/170B_CourseNotes.pdf)
 [<img src="https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png" width="600">](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png)
 
 ## About this repository:
