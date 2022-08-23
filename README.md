@@ -1,8 +1,9 @@
 # CSUF-MATH-170B-LINEAR-ALGEBRA
 
 ## [CLICK HERE TO OPEN NOTEBOOK](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
-[<img src="https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png" width="600">](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png)
 ### [Sylabus]()
+[<img src="https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png" width="600">](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png)
+
 ## About this repository:
 The purpose of this repository is to act as a resource and record of the materials
 and concepts covered in this course. I try to keep my notes organized and complete as 
