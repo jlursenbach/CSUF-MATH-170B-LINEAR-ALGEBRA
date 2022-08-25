@@ -1,7 +1,7 @@
 # CSUF-MATH-170B-LINEAR-ALGEBRA
 
 ## [CLICK HERE TO OPEN NOTEBOOK](https://github.com/jlursenbach/Game-design-CPSC-386-Notes/blob/main/Notebook/Game-design-CPSC-386-Notes.md)
-### [Sylabus](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/Math%20170B-02.pdf)
+### [Syllabus](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/Math%20170B-02.pdf)
 ### [textbook](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/Nicholson-OpenLAWA-2021A.pdf)
 ### [Course Notes (provided by prof)](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/170B_CourseNotes.pdf)
 [<img src="https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png" width="600">](https://github.com/jlursenbach/CSUF-MATH-170B-LINEAR-ALGEBRA/blob/main/data/Linear%20Algebra%20Card.png)
