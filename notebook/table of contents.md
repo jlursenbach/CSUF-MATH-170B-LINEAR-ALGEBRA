@@ -1,13 +1,13 @@
 # Linear Algebra
 
-# Chapters
+## Chapters
 
 
-# Topics:
+## Topics:
 
 
-# Lecture Days:
-## 20220823 Day 1 
+## Lecture Days:
+### 20220823 Day 1 
   ## Introduction
   ## 1.1 What is a Matrix  
   Matrix  
@@ -15,7 +15,7 @@
   Elementary Operations  
     
     
-## 20220825 Day 2  
+### 20220825 Day 2  
   Gaussian Elimination  
   Row Echelon Matrix  
   Reduced Row Echelon Matrix  
